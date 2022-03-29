@@ -1,7 +1,7 @@
 <h1 align="center"fds>Hello, I'm Jacob 👋🏼</h1>
 <p align="center"><img src="https://i.imgur.com/XcOMCmb.png" alt="JacobPantuso"/></p>
 <p float="left" align = "center">
-  <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jacob-pantuso-054b06156/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 <h2>GitHub Statistics</h2>
 <p float="left" align = "center">
