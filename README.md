@@ -1,6 +1,4 @@
-<div align = "center">
-  #### Hello, I'm Jacob!
-</div>
+<h1 align="center">Hello, I'm Jacob!</h1>
 
 <!---
 JacobPantuso/JacobPantuso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
