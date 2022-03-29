@@ -2,7 +2,7 @@
 <p align="center"><img src="https://i.imgur.com/XcOMCmb.png" alt="JacobPantuso"/></p>
 <p float="left" align = "center">
   <a href="https://www.linkedin.com/in/jacob-pantuso-054b06156/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://www.jacobpantuso.ca"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>  
+  <a href="http://jacobpantuso.ca"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>  
 </p>
 <h2>GitHub Statistics</h2>
 <p float="left" align = "center">
