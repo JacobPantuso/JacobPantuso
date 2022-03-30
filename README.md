@@ -2,7 +2,7 @@
 <p align="center">I am a Computer Science student at Ryerson University. You can see more about me using the two buttons below.</p>
 <p float="left" align = "center">
   <a href="https://www.linkedin.com/in/jacob-pantuso-054b06156/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="http://jacobpantuso.ca"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>  
+  <a href="http://www.jacobpantuso.ca"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>  
 </p>
 <h2>Profficient Languages</h2>
     <p float="left" align="center">
