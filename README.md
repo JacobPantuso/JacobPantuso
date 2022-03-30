@@ -5,6 +5,9 @@
   <a href="http://jacobpantuso.ca"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>  
 </p>
 <h2>Profficient Languages</h2>
+    <p float="left" align="center">
+      <a href="https://www.swift.org"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=whit"/>
+    </p>
 <h2>GitHub Statistics</h2>
 <p float="left" align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=JacobPantuso&show_icons=true&locale=en&theme=dark" alt="JacobPantuso" width="355" />
