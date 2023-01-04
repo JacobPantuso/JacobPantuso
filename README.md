@@ -1,5 +1,5 @@
 <h1 align="center"fds>Hello, I'm Jacob 👋🏼</h1>
-<p align="center">I am a Computer Science student at Toronto Metropolitan University. You can see more about me using the two buttons below.</p>
+<p align="center">I am a Computer Science student at Toronto Metropolitan University. I have a passion for developing front-end interfaces and backend technologies. You can see more about me using the two buttons below.</p>
 <p float="left" align = "center">
   <a href="https://www.linkedin.com/in/jacob-pantuso-054b06156/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="http://www.jacobpantuso.ca"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>  
